@@ -1,2 +1,2 @@
 Directory contains alx code practises
-Have updated readme
+I have updated readme
